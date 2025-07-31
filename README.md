@@ -20,15 +20,6 @@
 
 ---
 
-### 🧠 Technical Skills
-
-- **Languages**: C, Java, Python  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Spring Boot  
-- **Database**: MongoDB, MySQL, SQL  
-- **Other Tools**: Git, GitHub, Linux, JWT, Stripe API
-
----
 
 ### 🛠️ Projects
 
