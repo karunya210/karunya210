@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=300&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karunya;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Karunya Gundegarolla</h1>
 <h3 align="center">B.Tech in IT | Full Stack Developer | Problem Solver | Open to Internships</h3>
 
@@ -32,29 +36,20 @@
 > Efficiently calculates median of a dynamically growing dataset using Min/Max Heaps  
 `HTML`, `CSS`, `JavaScript`, `Heap Data Structures`
 
-#### 🔹 [Trie-Based Word Search](https://github.com/karunya210)
-> Scalable search system using Trie; reduced lookup time by 50% for large datasets  
-`Spring Boot`, `Java`, `Data Structures`
-
 #### 🔹 [Amazon Clone – E-commerce App](https://github.com/karunya210)
 > Full-stack Amazon-inspired app with cart, payment, and auth system  
 `React.js`, `Node.js`, `MongoDB`, `JWT`, `Redux`, `Stripe API`, `Tailwind CSS`
 
-#### 🔹 [Job Application Portal](https://github.com/karunya210)
-> Recruitment platform with job posting, applications, and admin dashboard  
-`MERN Stack`, `JWT`, `Full Stack`
-
-#### 🔹 [Developer Landing Page](https://github.com/karunya210)
-> Personal portfolio landing page with modern, responsive UI  
-`HTML`, `CSS`, `UX Design`
-
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunya210&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunya210&theme=radical" width="48%" />
+## 💼 Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ---
@@ -66,17 +61,27 @@
 
 ---
 
-### 💻 Coding Profiles
-
-- 🔗 [LeetCode](https://leetcode.com/u/karunya_210/)  
-- 🔗 [CodeChef](https://www.codechef.com/users/karunya00)  
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/karunya-gundegarolla-4581a0313/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/karunya_210/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/karunya_210" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🔗 Connect with Me
+### 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/karunya-gundegarolla-4581a0313)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:karunyag210@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karunya210&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunya210&theme=radical" width="48%" />
+</p>
 
 ---
 
